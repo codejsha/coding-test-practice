@@ -23,5 +23,6 @@ macro(add_target_test target)
 endmacro()
 
 add_library_target(allocation_room_number)
+add_library_target(allocation_room_number_others)
 
 add_target_test(allocation_room_number_test)

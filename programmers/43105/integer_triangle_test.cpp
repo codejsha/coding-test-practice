@@ -1,9 +1,10 @@
 #include "integer_triangle.cpp"
+
 #include <gtest/gtest.h>
 
 GTEST_TEST(integer_triangle_sum, case1)
 {
-    vector<vector<int>> triangle = {
+    const vector<vector<int>> triangle = {
         {7},
         {3, 8},
         {8, 1, 0},
