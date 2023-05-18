@@ -54,10 +54,10 @@ std::vector<std::string> FindEulerianPath(const std::vector<std::vector<std::str
     return path;
 }
 
-using namespace std;
-
-vector<string> solution(vector<vector<string>> tickets)
-{
-    vector<string> eulerianPath = FindEulerianPath(tickets, "ICN");
-    return eulerianPath;
-}
+// using namespace std;
+//
+// vector<string> solution(vector<vector<string>> tickets)
+// {
+//     vector<string> eulerianPath = FindEulerianPath(tickets, "ICN");
+//     return eulerianPath;
+// }

@@ -28,10 +28,10 @@ std::string FindMinAndMax(const std::string& str)
     return std::to_string(min) + " " + std::to_string(max);
 }
 
-using namespace std;
-
-string solution(string s)
-{
-    auto answer = FindMinAndMax(s);
-    return answer;
-}
+// using namespace std;
+//
+// string solution(string s)
+// {
+//     auto answer = FindMinAndMax(s);
+//     return answer;
+// }

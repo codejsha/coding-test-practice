@@ -36,10 +36,10 @@ std::vector<long long> AllocationRoomNumber(const std::vector<long long>& room_n
     return answer;
 }
 
-using namespace std;
-
-vector<long long> solution(long long k, vector<long long> room_number)
-{
-    vector<long long> answer = AllocationRoomNumber(room_number);
-    return answer;
-}
+// using namespace std;
+//
+// vector<long long> solution(long long k, vector<long long> room_number)
+// {
+//     vector<long long> answer = AllocationRoomNumber(room_number);
+//     return answer;
+// }

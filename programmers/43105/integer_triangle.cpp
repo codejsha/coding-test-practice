@@ -20,10 +20,10 @@ int IntegerTriangleSum(std::vector<std::vector<int>>& triangle)
     return triangle[0][0];
 }
 
-using namespace std;
-
-int solution(vector<vector<int>> triangle)
-{
-    int answer = IntegerTriangleSum(triangle);
-    return answer;
-}
+// using namespace std;
+//
+// int solution(vector<vector<int>> triangle)
+// {
+//     int answer = IntegerTriangleSum(triangle);
+//     return answer;
+// }

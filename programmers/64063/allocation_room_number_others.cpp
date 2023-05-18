@@ -3,24 +3,22 @@
 #include <unordered_map>
 #include <vector>
 
-using namespace std;
-
 /**
- * \brief allocate room number in hotel
- * \details
+ * @brief allocate room number in hotel
+ * @details
  * Submission result
  * Accuracy: 78.8
  * Efficiency: 6.1
  * Total score: 84.8 / 100.0
  *
- * \param k total room number
- * \param room_number room number array that clients want
- * \return assigned room number array
+ * @param k total room number
+ * @param room_number room number array that clients want
+ * @return assigned room number array
  */
-vector<long long> allocation_room_number_slot_iter(long long k, const vector<long long>& room_number)
+std::vector<long long> AllocationRoomNumberSlotIter(long long k, const std::vector<long long>& room_number)
 {
-    vector<long long> allocated(k, 0);
-    vector<long long> result;
+    std::vector<long long> allocated(k, 0);
+    std::vector<long long> result;
     long long iter = 1;
 
     for (long long i = 0; i < static_cast<int>(room_number.size()); i++)
@@ -57,21 +55,21 @@ vector<long long> allocation_room_number_slot_iter(long long k, const vector<lon
 }
 
 /**
- * \brief allocate room number in hotel
- * \details
+ * @brief allocate room number in hotel
+ * @details
  * Submission result
  * Accuracy: 78.8
  * Efficiency: 3.0
  * Total score: 81.8 / 100.0
  *
- * \param k total room number
- * \param room_number room number array that clients want
- * \return assigned room number array
+ * @param k total room number
+ * @param room_number room number array that clients want
+ * @return assigned room number array
  */
-vector<long long> allocation_room_number_slot_iter_map(long long k, const vector<long long>& room_number)
+std::vector<long long> AllocationRoomNumberSlotIterMap(long long k, const std::vector<long long>& room_number)
 {
-    unordered_map<long long, long long> allocated;
-    vector<long long> result;
+    std::unordered_map<long long, long long> allocated;
+    std::vector<long long> result;
     long long iter = 1;
 
     for (long long i = 0; i < static_cast<int>(room_number.size()); i++)
@@ -101,21 +99,21 @@ vector<long long> allocation_room_number_slot_iter_map(long long k, const vector
 }
 
 /**
- * \brief allocate room number in hotel
- * \details
+ * @brief allocate room number in hotel
+ * @details
  * Submission result
  * Accuracy: 78.8
  * Efficiency: 3.0
  * Total score: 81.8 / 100.0
  *
- * \param k total room number
- * \param room_number room number array that clients want
- * \return assigned room number array
+ * @param k total room number
+ * @param room_number room number array that clients want
+ * @return assigned room number array
  */
-vector<long long> allocation_room_number_inner_loop(long long k, const vector<long long>& room_number)
+std::vector<long long> AllocationRoomNumberInnerLoop(long long k, const std::vector<long long>& room_number)
 {
-    vector<long long> allocated(k, 0);
-    vector<long long> result;
+    std::vector<long long> allocated(k, 0);
+    std::vector<long long> result;
 
     for (long long room : room_number)
     {

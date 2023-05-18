@@ -78,10 +78,10 @@ int WordConversionStep(const std::string& begin, const std::string& target, std:
     return 0;
 }
 
-using namespace std;
-
-int solution(string begin, string target, vector<string> words)
-{
-    int answer = WordConversionStep(begin, target, words);
-    return answer;
-}
+// using namespace std;
+//
+// int solution(string begin, string target, vector<string> words)
+// {
+//     int answer = WordConversionStep(begin, target, words);
+//     return answer;
+// }
