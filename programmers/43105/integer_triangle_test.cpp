@@ -1,10 +1,10 @@
-#include "integer_triangle.cpp"
+#include "integer_triangle.h"
 
 #include <gtest/gtest.h>
 
-GTEST_TEST(integer_triangle_sum, case1)
+GTEST_TEST(IntegerTriangleSum, Successful)
 {
-    const vector<vector<int>> triangle = {
+    std::vector<std::vector<int>> triangle = {
         {7},
         {3, 8},
         {8, 1, 0},
@@ -12,6 +12,6 @@ GTEST_TEST(integer_triangle_sum, case1)
         {4, 5, 2, 6, 5}
     };
     constexpr auto expected = 30;
-    const auto actual = solution(triangle);
+    const auto actual = IntegerTriangleSum(triangle);
     EXPECT_EQ(expected, actual);
 }

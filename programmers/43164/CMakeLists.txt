@@ -12,7 +12,7 @@ endmacro()
 
 macro(add_target_test target)
     string(REPLACE "_test" "" target_name ${target})
-    add_executable(${target} "${target}.cpp")
+    add_executable(${target} "${target}.cpp" "${target_name}.cpp")
     target_link_libraries(${target} PRIVATE GTest::gtest GTest::gtest_main ${ARGN})
     if(MSVC)
         ### Edit and Continue for CMake projects

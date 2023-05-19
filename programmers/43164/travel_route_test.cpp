@@ -1,27 +1,27 @@
-#include "travel_route.cpp"
+#include "travel_route.h"
 
 #include <gtest/gtest.h>
 
-GTEST_TEST(travel_route, case1)
+GTEST_TEST(FindEulerianPath, Successful1)
 {
-    vector<vector<string>> tickets = {
+    std::vector<std::vector<std::string>> tickets = {
         {"ICN", "JFK"},
         {"HND", "IAD"},
         {"JFK", "HND"}};
-    const vector<string> expected = {"ICN", "JFK", "HND", "IAD"};
+    const std::vector<std::string> expected = {"ICN", "JFK", "HND", "IAD"};
     const auto actual = FindEulerianPath(tickets, "ICN");
     EXPECT_EQ(expected, actual);
 }
 
-GTEST_TEST(travel_route, case2)
+GTEST_TEST(FindEulerianPath, Successful2)
 {
-    vector<vector<string>> tickets = {
+    std::vector<std::vector<std::string>> tickets = {
         {"ICN", "SFO"},
         {"ICN", "ATL"},
         {"SFO", "ATL"},
         {"ATL", "ICN"},
         {"ATL", "SFO"}};
-    const vector<string> expected = {"ICN", "ATL", "ICN", "SFO", "ATL", "SFO"};
+    const std::vector<std::string> expected = {"ICN", "ATL", "ICN", "SFO", "ATL", "SFO"};
     const auto actual = FindEulerianPath(tickets, "ICN");
     EXPECT_EQ(expected, actual);
 }

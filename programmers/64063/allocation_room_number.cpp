@@ -1,15 +1,11 @@
+#include "allocation_room_number.h"
+
 #include <map>
 #include <string>
 #include <unordered_map>
-#include <vector>
 
 std::unordered_map<long long, long long> room_parent;
 
-/**
- * \brief find set of room number
- * \param u room number
- * \return parent room number
- */
 long long FindSet(const long long u)
 {
     if (room_parent[u] == 0)
@@ -19,11 +15,6 @@ long long FindSet(const long long u)
     return room_parent[u] = FindSet(room_parent[u]);
 }
 
-/**
- * \brief allocate room number in hotel
- * \param room_number room number array that clients want
- * \return assigned room number array
- */
 std::vector<long long> AllocationRoomNumber(const std::vector<long long>& room_number)
 {
     std::vector<long long> answer;

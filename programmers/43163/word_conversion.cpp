@@ -1,14 +1,8 @@
-#include <queue>
-#include <string>
-#include <unordered_set>
-#include <vector>
+#include "word_conversion.h"
 
-/**
- * \brief Check if two words differ by a single character.
- * \param current the current word 
- * \param word the word to compare with
- * \return true if the two words differ by a single character, false otherwise
- */
+#include <queue>
+#include <unordered_set>
+
 bool IsOneCharDiff(const std::string& current, const std::string& word)
 {
     auto diff = 0;
@@ -22,14 +16,6 @@ bool IsOneCharDiff(const std::string& current, const std::string& word)
     return diff == 1;
 }
 
-/**
- * \brief Calculates the minimum number of steps to convert one word into another
- * using a single character change.
- * \param begin starting word
- * \param target target word
- * \param words word list
- * \return minimum number of steps to convert begin to target
- */
 int WordConversionStep(const std::string& begin, const std::string& target, std::vector<std::string>& words)
 {
     // Convert the word list into a set for faster lookup

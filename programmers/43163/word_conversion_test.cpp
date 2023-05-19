@@ -1,23 +1,23 @@
-#include "word_conversion.cpp"
+#include "word_conversion.h"
 
 #include <gtest/gtest.h>
 
-GTEST_TEST(word_conversion, case1)
+GTEST_TEST(WordConversionStep, case1)
 {
-    const string begin = "hit";
-    const string target = "cog";
-    const vector<string> words = {"hot", "dot", "dog", "lot", "log", "cog"};
+    const std::string begin = "hit";
+    const std::string target = "cog";
+    std::vector<std::string> words = {"hot", "dot", "dog", "lot", "log", "cog"};
     constexpr auto expected = 4;
-    const auto actual = solution(begin, target, words);
+    const auto actual = WordConversionStep(begin, target, words);
     EXPECT_EQ(expected, actual);
 }
 
-GTEST_TEST(word_conversion, case2)
+GTEST_TEST(WordConversionStep, case2)
 {
-    const string begin = "hit";
-    const string target = "cog";
-    const vector<string> words = {"hot", "dot", "dog", "lot", "log"};
+    const std::string begin = "hit";
+    const std::string target = "cog";
+    std::vector<std::string> words = {"hot", "dot", "dog", "lot", "log"};
     constexpr auto expected = 0;
-    const auto actual = solution(begin, target, words);
+    const auto actual = WordConversionStep(begin, target, words);
     EXPECT_EQ(expected, actual);
 }
