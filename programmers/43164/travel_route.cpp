@@ -2,7 +2,9 @@
 
 #include <algorithm>
 
-void DepthFirstSearchEulerianPath(const std::string& node, std::map<std::string, std::vector<std::string>>& adjacency_list, std::vector<std::string>& path)
+void DepthFirstSearchEulerianPath(const std::string& node,
+                                  std::map<std::string, std::vector<std::string>>& adjacency_list,
+                                  std::vector<std::string>& path)
 {
     while (!adjacency_list[node].empty())
     {
@@ -13,7 +15,8 @@ void DepthFirstSearchEulerianPath(const std::string& node, std::map<std::string,
     path.push_back(node);
 }
 
-std::vector<std::string> FindEulerianPath(const std::vector<std::vector<std::string>>& edges, const std::string& start)
+std::vector<std::string> FindEulerianPath(const std::vector<std::vector<std::string>>& edges,
+                                          const std::string& start)
 {
     std::map<std::string, std::vector<std::string>> adjacency_list;
 

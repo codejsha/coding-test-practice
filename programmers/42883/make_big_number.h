@@ -9,4 +9,4 @@
  * @param k number of digits to remove
  * @return big number string
  */
-auto MakeBigNumber(std::string number, int k) -> std::string;
+std::string MakeBigNumber(std::string number, int k);

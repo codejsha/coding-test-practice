@@ -6,7 +6,7 @@
 bool IsOneCharDiff(const std::string& current, const std::string& word)
 {
     auto diff = 0;
-    for (auto i = 0; i < current.length(); i++)
+    for (auto i = 0; i < current.length(); ++i)
     {
         if (current[i] != word[i])
         {
@@ -36,7 +36,7 @@ int WordConversionStep(const std::string& begin, const std::string& target, std:
     while (!search_queue.empty())
     {
         // Perform search on all words in the queue
-        for (auto i = 0; i < static_cast<int>(search_queue.size()); i++)
+        for (auto i = 0; i < static_cast<int>(search_queue.size()); ++i)
         {
             auto current = search_queue.front();
             search_queue.pop();

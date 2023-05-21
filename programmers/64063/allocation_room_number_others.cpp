@@ -21,7 +21,7 @@ std::vector<long long> AllocationRoomNumberSlotIter(long long k, const std::vect
     std::vector<long long> result;
     long long iter = 1;
 
-    for (long long i = 0; i < static_cast<int>(room_number.size()); i++)
+    for (long long i = 0; i < static_cast<int>(room_number.size()); ++i)
     {
         long long room = room_number[i];
         if (room <= iter)
@@ -72,7 +72,7 @@ std::vector<long long> AllocationRoomNumberSlotIterMap(long long k, const std::v
     std::vector<long long> result;
     long long iter = 1;
 
-    for (long long i = 0; i < static_cast<int>(room_number.size()); i++)
+    for (long long i = 0; i < static_cast<int>(room_number.size()); ++i)
     {
         long long room = room_number[i];
         if (room <= iter)
@@ -124,7 +124,7 @@ std::vector<long long> AllocationRoomNumberInnerLoop(long long k, const std::vec
         }
         else
         {
-            for (long long j = room + 1; j < k; j++)
+            for (long long j = room + 1; j < k; ++j)
             {
                 if (allocated[j] == 0)
                 {
