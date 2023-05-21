@@ -16,3 +16,4 @@
 - PROGRAMMERS-43164 | [여행 경로 (Travel Route)](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
 - PROGRAMMERS-43165 | [타겟 넘버 (Target Number)](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
 - PROGRAMMERS-64063 | [호텔 방 배정 (Hotel Room Allocation)](https://school.programmers.co.kr/learn/courses/30/lessons/64063)
+- PROGRAMMERS-72411 | [메뉴 리뉴얼 (Menu Renewal)](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
