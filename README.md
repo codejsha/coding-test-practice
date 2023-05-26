@@ -11,6 +11,7 @@
 - PROGRAMMERS-12945 | [java](programmers/problem12945) | [피보나치 수 (Fibonacci Numbers)](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
 - PROGRAMMERS-12951 | [java](programmers/problem12951) | [JadenCase 문자열 만들기 (JadenCase String)](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
 - PROGRAMMERS-12973 | [java](programmers/problem12973) | [짝지어 제거하기 (Elimination by Grouping)](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
+- PROGRAMMERS-12981 | [java](programmers/problem12981) | [영어 끝말잇기 (English Word Relay)](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
 - PROGRAMMERS-42578 | [python](programmers/problem42578) | [의상 (Clothes)](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 - PROGRAMMERS-42883 | [c++](programmers/problem42883) | [큰 수 만들기 (Make a Big Number)](https://school.programmers.co.kr/learn/courses/30/lessons/42883)
 - PROGRAMMERS-43105 | [c++](programmers/problem43105) | [정수 삼각형 (Integer Triangle)](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
