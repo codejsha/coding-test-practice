@@ -7,6 +7,7 @@
 - :star: PROGRAMMERS-12909 | [java](programmers/problem12909) | [올바른 괄호 (A Correct Parentheses)](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
 - PROGRAMMERS-12911 | [java](programmers/problem12911) | [다음 큰 숫자 (Next Big Number)](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
 - :star: PROGRAMMERS-12924 | [java](programmers/problem12924) | [숫자의 표현 (Number Expressions)](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
+- PROGRAMMERS-12945 | [java](programmers/problem12945) | [피보나치 수 (Fibonacci Numbers)](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
 - PROGRAMMERS-42578 | [python](programmers/problem42578) | [의상 (Clothes)](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 - PROGRAMMERS-42883 | [c++](programmers/problem42883) | [큰 수 만들기 (Make a Big Number)](https://school.programmers.co.kr/learn/courses/30/lessons/42883)
 - PROGRAMMERS-43105 | [c++](programmers/problem43105) | [정수 삼각형 (Integer Triangle)](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
