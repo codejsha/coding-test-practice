@@ -27,3 +27,4 @@
 - PROGRAMMERS-64063 | [c++](programmers/problem64063) | [호텔 방 배정 (Hotel Room Allocation)](https://school.programmers.co.kr/learn/courses/30/lessons/64063)
 - PROGRAMMERS-70129 | [java](programmers/problem70129) | [이진 변환 반복하기 (Repeat Binary Conversion)](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
 - PROGRAMMERS-72411 | [c++](programmers/problem72411) | [메뉴 리뉴얼 (Menu Renewal)](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+- PROGRAMMERS-138476 | [c++](programmers/problem138476) | [귤 고르기 (Picking Tangerines)](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
