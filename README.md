@@ -15,6 +15,7 @@
 - PROGRAMMERS-42578 | [python](programmers/problem42578) | [의상 (Clothes)](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 - PROGRAMMERS-42842 | [java](programmers/problem42842) | [카펫 (Carpet)](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
 - PROGRAMMERS-42883 | [c++](programmers/problem42883) | [큰 수 만들기 (Make a Big Number)](https://school.programmers.co.kr/learn/courses/30/lessons/42883)
+- PROGRAMMERS-42885 | [c++](programmers/problem42885) | [구명보트 (Lifeboat)](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
 - PROGRAMMERS-43105 | [c++](programmers/problem43105) | [정수 삼각형 (Integer Triangle)](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
 - PROGRAMMERS-43163 | [c++](programmers/problem43163) | [단어 변환 (Word Conversion)](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
 - PROGRAMMERS-43164 | [c++](programmers/problem43164) | [여행 경로 (Travel Route)](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
