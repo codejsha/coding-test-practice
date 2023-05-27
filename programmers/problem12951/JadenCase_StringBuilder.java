@@ -8,7 +8,7 @@ public class JadenCase_StringBuilder {
         var s2 = "for The Last Week";
         System.out.println(sol.solution(s2));
     }
-    
+
     public String solution(String s) {
         var sb = new StringBuilder();
         var lower = s.toLowerCase();

@@ -8,7 +8,7 @@ public class NextBigNumber {
         System.out.println(Integer.toBinaryString(sol.solution(n)));
     }
 
-    private int solution(int n) {
+    public int solution(int n) {
         var bits = Integer.bitCount(n);
         do {
             n++;
