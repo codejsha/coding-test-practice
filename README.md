@@ -6,6 +6,7 @@
 - PROGRAMMERS-12939 | [c++](programmers/problem12939) | [최댓값과 최솟값 (Maximum and Minimum Values)](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
 - :star: PROGRAMMERS-12909 | [java](programmers/problem12909) | [올바른 괄호 (A Correct Parentheses)](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
 - PROGRAMMERS-12911 | [java](programmers/problem12911) | [다음 큰 숫자 (Next Big Number)](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
+- PROGRAMMERS-12914 | [java](programmers/problem12914) | [멀리 뛰기 (Long Jump)](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
 - :star: PROGRAMMERS-12924 | [java](programmers/problem12924) | [숫자의 표현 (Number Expressions)](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
 - PROGRAMMERS-12941 | [java](programmers/problem12941) | [최솟값 만들기 (Generating Minimum Value)](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
 - PROGRAMMERS-12945 | [java](programmers/problem12945) | [피보나치 수 (Fibonacci Numbers)](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
