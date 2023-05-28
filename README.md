@@ -10,6 +10,7 @@
 - :star: PROGRAMMERS-12924 | [java](programmers/problem12924) | [숫자의 표현 (Number Expressions)](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
 - PROGRAMMERS-12941 | [java](programmers/problem12941) | [최솟값 만들기 (Generating Minimum Value)](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
 - PROGRAMMERS-12945 | [java](programmers/problem12945) | [피보나치 수 (Fibonacci Numbers)](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
+- PROGRAMMERS-12949 | [java](programmers/problem12949) | [행렬의 곱셈 (Matrix Multiplication)](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
 - PROGRAMMERS-12951 | [java](programmers/problem12951) | [JadenCase 문자열 만들기 (JadenCase String)](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
 - :star: PROGRAMMERS-12953 | [java](programmers/problem12953) | [N개의 최소공배수 (N Least Common Multiple)](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
 - PROGRAMMERS-12973 | [java](programmers/problem12973) | [짝지어 제거하기 (Elimination by Grouping)](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
