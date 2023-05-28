@@ -27,5 +27,6 @@
 - PROGRAMMERS-64063 | [c++](programmers/problem64063) | [호텔 방 배정 (Hotel Room Allocation)](https://school.programmers.co.kr/learn/courses/30/lessons/64063)
 - PROGRAMMERS-70129 | [java](programmers/problem70129) | [이진 변환 반복하기 (Repeat Binary Conversion)](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
 - PROGRAMMERS-72411 | [c++](programmers/problem72411) | [메뉴 리뉴얼 (Menu Renewal)](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+- PROGRAMMERS-76502 | [java](programmers/problem76502) | [괄호 회전하기 (Rotate Parentheses)](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
 - :star: PROGRAMMERS-131701 | [java](programmers/problem131701) | [연속 부분 수열 합의 개수 (Number of Consecutive Subsequence Sums)](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
 - PROGRAMMERS-138476 | [c++](programmers/problem138476) | [귤 고르기 (Picking Tangerines)](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
