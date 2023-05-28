@@ -8,9 +8,9 @@ import java.util.Stack;
 public class GroupElimination_Stack2 {
     public static void main(String[] args) {
         var sol = new GroupElimination_Stack2();
-        String s1 = "baabaa";
+        var s1 = "baabaa";
         System.out.println(sol.solution(s1));
-        String s2 = "cdcd";
+        var s2 = "cdcd";
         System.out.println(sol.solution(s2));
     }
 

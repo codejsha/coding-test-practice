@@ -8,7 +8,7 @@ import java.util.Stack;
  */
 public class CorrectParenthesis_Stream {
     public static void main(String[] args) {
-        String s = "()()";
+        var s = "()()";
         var sol = new CorrectParenthesis_Stream();
         System.out.println(sol.solution(s));
     }

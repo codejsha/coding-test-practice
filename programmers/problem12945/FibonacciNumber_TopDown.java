@@ -2,7 +2,7 @@ package problem12945;
 
 public class FibonacciNumber_TopDown {
     public static void main(String[] args) {
-        int n = 5;
+        var n = 5;
         var sol = new FibonacciNumber_BottomUp();
         System.out.println(sol.solution(n));
     }

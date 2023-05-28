@@ -10,7 +10,7 @@ public class ExpectedMatch1 {
     }
 
     public int solution(int n, int a, int b) {
-        int round = 1;
+        var round = 1;
 
         for (var i = 0; i < n / 2; i++) {
             if (a % 2 == 0 && b % 2 == 1 && b + 1 == a) {

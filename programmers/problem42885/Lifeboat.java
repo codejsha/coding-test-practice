@@ -5,10 +5,10 @@ import java.util.Arrays;
 public class Lifeboat {
     public static void main(String[] args) {
         var lifeboat = new Lifeboat();
-        var arr1 = new int[] { 70, 50, 80, 50 };
+        var arr1 = new int[]{70, 50, 80, 50};
         var limit1 = 100;
         System.out.println(lifeboat.solution(arr1, limit1));
-        var arr2 = new int[] { 70, 80, 50 };
+        var arr2 = new int[]{70, 80, 50};
         var limit2 = 100;
         System.out.println(lifeboat.solution(arr2, limit2));
     }

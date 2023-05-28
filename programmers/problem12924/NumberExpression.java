@@ -2,13 +2,13 @@ package problem12924;
 
 public class NumberExpression {
     public static void main(String[] args) {
-        int n = 15;
+        var n = 15;
         var sol = new NumberExpression();
         System.out.println(sol.solution(n));
     }
 
     public int solution(int n) {
-        int answer = 0;
+        var answer = 0;
         var start = 1;
         var sum = 0;
         var last = start;

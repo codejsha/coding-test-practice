@@ -18,7 +18,7 @@ public class Carpet {
     }
 
     public int[] solution(int brown, int yellow) {
-        int[] answer = new int[2];
+        var answer = new int[2];
         for (var i = 1; i <= yellow; i++) {
             if (yellow % i == 0) {
                 var width = yellow / i;

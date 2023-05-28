@@ -20,7 +20,7 @@ public class EnglishWordRelay_Remainder {
     }
 
     public int[] solution(int n, String[] words) {
-        int[] answer = new int[2];
+        var answer = new int[2];
         var table = new HashSet<String>();
         var players = new ArrayList<Integer>();
         for (var i = 1; i <= n; i++) {
@@ -28,7 +28,7 @@ public class EnglishWordRelay_Remainder {
         }
 
         var prevWord = "";
-        for (int i = 0; i < words.length; i++) {
+        for (var i = 0; i < words.length; i++) {
             var word = words[i];
             var player = players.get(i % n);    // i % n + 1
             var round = i / n + 1;

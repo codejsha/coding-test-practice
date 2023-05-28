@@ -7,7 +7,7 @@ import java.util.Stack;
  */
 public class CorrectParenthesis_Split {
     public static void main(String[] args) {
-        String s = "()()";
+        var s = "()()";
         var sol = new CorrectParenthesis_Split();
         System.out.println(sol.solution(s));
     }

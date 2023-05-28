@@ -7,7 +7,7 @@ import java.util.Stack;
  */
 public class CorrectParenthesis_StringBuilder {
     public static void main(String[] args) {
-        String s = "()()";
+        var s = "()()";
         var sol = new CorrectParenthesis_StringBuilder();
         System.out.println(sol.solution(s));
     }

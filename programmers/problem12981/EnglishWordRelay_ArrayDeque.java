@@ -20,7 +20,7 @@ public class EnglishWordRelay_ArrayDeque {
     }
 
     public int[] solution(int n, String[] words) {
-        int[] answer = new int[2];
+        var answer = new int[2];
         var table = new HashMap<String, Integer>();
         var players = new ArrayDeque<Integer>();
         for (var i = 1; i <= n; i++) {
