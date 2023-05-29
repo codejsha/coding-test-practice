@@ -34,5 +34,6 @@
 - PROGRAMMERS-72411 | [c++](programmers/problem72411) | [메뉴 리뉴얼 (Menu Renewal)](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
 - PROGRAMMERS-76502 | [java](programmers/problem76502) | [괄호 회전하기 (Rotate Parentheses)](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
 - :star: PROGRAMMERS-87390 | [java](programmers/problem87390) | [n^2 배열 자르기 (Cutting n^2 Array)](https://school.programmers.co.kr/learn/courses/30/lessons/87390)
+- PROGRAMMERS-131127 | [java](programmers/problem131127) | [할인 행사 (Discount Events)](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
 - :star: PROGRAMMERS-131701 | [java](programmers/problem131701) | [연속 부분 수열 합의 개수 (Number of Consecutive Subsequence Sums)](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
 - PROGRAMMERS-138476 | [c++](programmers/problem138476) | [귤 고르기 (Picking Tangerines)](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
