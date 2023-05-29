@@ -49,12 +49,10 @@ public class ConvertSetArrayToTuple_Stream {
             }
         }
 
-        var result = map.entrySet().stream()
+        return map.entrySet().stream()
                 .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
                 .map(Map.Entry::getKey)
                 .mapToInt(Integer::parseInt)
                 .toArray();
-        return result;
     }
-
 }
