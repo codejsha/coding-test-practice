@@ -17,6 +17,7 @@
 - PROGRAMMERS-12980 | [java](programmers/problem12980) | [점프와 순간 이동 (Jump and Teleport)](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
 - PROGRAMMERS-12981 | [java](programmers/problem12981) | [영어 끝말잇기 (English Word Relay)](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
 - :star: PROGRAMMERS-12985 | [java](programmers/problem12985) | [예상 대진표 (Expected List of Matches)](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
+- PROGRAMMERS-17677 | [java](programmers/problem17677) | [뉴스 클러스터링 (News Clustering)](https://school.programmers.co.kr/learn/courses/30/lessons/17677)
 - PROGRAMMERS-17680 | [java](programmers/problem17680) | [캐시 (Cache)](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
 - PROGRAMMERS-42578 | [python](programmers/problem42578) | [의상 (Clothes)](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 - PROGRAMMERS-42586 | [java](programmers/problem42586) | [기능개발 (Function Development)](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
