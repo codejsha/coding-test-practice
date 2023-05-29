@@ -27,7 +27,7 @@ public class RotateParentheses {
         var count = 0;
         var stack = new Stack<Character>();
 
-        for (int i = 0; i < s.length(); i++) {
+        for (var i = 0; i < s.length(); i++) {
             var temp = s.substring(i) + s.substring(0, i);
 
             stack.clear();

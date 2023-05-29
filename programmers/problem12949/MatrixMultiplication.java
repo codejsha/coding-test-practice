@@ -25,9 +25,9 @@ public class MatrixMultiplication {
         var result = new int[m][n];
 
         var p = arr2.length;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                for (int k = 0; k < p; k++) {
+        for (var i = 0; i < m; i++) {
+            for (var j = 0; j < n; j++) {
+                for (var k = 0; k < p; k++) {
                     result[i][j] += arr1[i][k] * arr2[k][j];
                 }
             }

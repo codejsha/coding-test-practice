@@ -26,7 +26,7 @@ public class RotateParentheses_Module {
     public int solution(String s) {
         var count = 0;
 
-        for (int i = 0; i < s.length(); i++) {
+        for (var i = 0; i < s.length(); i++) {
             var temp = s.substring(i) + s.substring(0, i);
 
             if (isCorrectParentheses(temp)) {

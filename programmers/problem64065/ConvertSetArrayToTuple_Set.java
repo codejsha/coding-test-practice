@@ -1,6 +1,8 @@
 package problem64065;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.HashSet;
 
 public class ConvertSetArrayToTuple_Set {
     public static void main(String[] args) {
@@ -40,7 +42,7 @@ public class ConvertSetArrayToTuple_Set {
 
         var set = new HashSet<String>();
         var result = new int[arr.length];
-        for (int i = 0; i < arr.length; i++) {
+        for (var i = 0; i < arr.length; i++) {
             for (var e : arr[i].split(",")) {
                 if (set.add(e)) {
                     result[i] = Integer.parseInt(e);

@@ -42,14 +42,14 @@ public class ConvertSetArrayToTuple_Stream {
         Arrays.sort(arr, Comparator.comparingInt(String::length));
 
         var map = new HashMap<String, Integer>();
-        for (int i = arr.length - 1; i >= 0; i--) {
+        for (var i = arr.length - 1; i >= 0; i--) {
             var elements = arr[i].split(",");
             for (var e : elements) {
                 map.put(e, map.getOrDefault(e, 0) + 1);
             }
         }
 
-        int[] result = map.entrySet().stream()
+        var result = map.entrySet().stream()
                 .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
                 .map(Map.Entry::getKey)
                 .mapToInt(Integer::parseInt)
