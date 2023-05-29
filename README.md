@@ -20,6 +20,7 @@
 - PROGRAMMERS-17680 | [java](programmers/problem17680) | [캐시 (Cache)](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
 - PROGRAMMERS-42578 | [python](programmers/problem42578) | [의상 (Clothes)](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 - PROGRAMMERS-42586 | [java](programmers/problem42586) | [기능개발 (Function Development)](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
+- PROGRAMMERS-42587 | [java](programmers/problem42587) | [프로세스 (Process)](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
 - :star: PROGRAMMERS-42842 | [java](programmers/problem42842) | [카펫 (Carpet)](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
 - PROGRAMMERS-42883 | [c++](programmers/problem42883) | [큰 수 만들기 (Make a Big Number)](https://school.programmers.co.kr/learn/courses/30/lessons/42883)
 - PROGRAMMERS-42885 | [c++](programmers/problem42885) | [구명보트 (Lifeboat)](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
