@@ -22,6 +22,7 @@
 | PROGRAMMERS-12985 :star:  | [java](programmers/problem12985)   | [예상 대진표 (Expected List of Matches)](https://school.programmers.co.kr/learn/courses/30/lessons/12985)                             |
 | PROGRAMMERS-17677         | [java](programmers/problem17677)   | [뉴스 클러스터링 (News Clustering)](https://school.programmers.co.kr/learn/courses/30/lessons/17677)                                  |
 | PROGRAMMERS-17680         | [java](programmers/problem17680)   | [캐시 (Cache)](https://school.programmers.co.kr/learn/courses/30/lessons/17680)                                                       |
+| PROGRAMMERS-42577         | [java](programmers/problem42577)   | [전화번호 목록 (List of Phone Numbers)](https://school.programmers.co.kr/learn/courses/30/lessons/42577)                              |
 | PROGRAMMERS-42578         | [python](programmers/problem42578) | [의상 (Clothes)](https://school.programmers.co.kr/learn/courses/30/lessons/42578)                                                     |
 | PROGRAMMERS-42586         | [java](programmers/problem42586)   | [기능개발 (Function Development)](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                                    |
 | PROGRAMMERS-42587         | [java](programmers/problem42587)   | [프로세스 (Process)](https://school.programmers.co.kr/learn/courses/30/lessons/42587)                                                 |
