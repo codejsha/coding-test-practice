@@ -41,6 +41,7 @@
 | PROGRAMMERS-76502         | [java](programmers/problem76502)   | [괄호 회전하기 (Rotate Parentheses)](https://school.programmers.co.kr/learn/courses/30/lessons/76502)                                 |
 | PROGRAMMERS-87390 :star:  | [java](programmers/problem87390)   | [n^2 배열 자르기 (Cutting n^2 Array)](https://school.programmers.co.kr/learn/courses/30/lessons/87390)                                |
 | PROGRAMMERS-87946 :star:  | [java](programmers/problem87946)   | [피로도 (Fatigue)](https://school.programmers.co.kr/learn/courses/30/lessons/87946)                                                   |
+| PROGRAMMERS-92335         | [java](programmers/problem92335)   | [k진수에서 소수 개수 구하기 (Counting Primes in k-Base)](https://school.programmers.co.kr/learn/courses/30/lessons/92335)             |
 | PROGRAMMERS-131127        | [java](programmers/problem131127)  | [할인 행사 (Discount Events)](https://school.programmers.co.kr/learn/courses/30/lessons/131127)                                       |
 | PROGRAMMERS-131701 :star: | [java](programmers/problem131701)  | [연속 부분 수열 합의 개수 (Number of Consecutive Subsequence Sums)](https://school.programmers.co.kr/learn/courses/30/lessons/131701) |
 | PROGRAMMERS-138476        | [c++](programmers/problem138476)   | [귤 고르기 (Picking Tangerines)](https://school.programmers.co.kr/learn/courses/30/lessons/138476)                                    |
