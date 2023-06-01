@@ -9,6 +9,7 @@
 | PROGRAMMERS-12911         | [java](programmers/problem12911)   | [다음 큰 숫자 (Next Big Number)](https://school.programmers.co.kr/learn/courses/30/lessons/12911)                                     |
 | PROGRAMMERS-12914         | [java](programmers/problem12914)   | [멀리 뛰기 (Long Jump)](https://school.programmers.co.kr/learn/courses/30/lessons/12914)                                              |
 | PROGRAMMERS-12924 :star:  | [java](programmers/problem12924)   | [숫자의 표현 (Number Expressions)](https://school.programmers.co.kr/learn/courses/30/lessons/12924)                                   |
+| PROGRAMMERS-12927         | [java](programmers/problem12927)   | [야근 지수 (Overtime Index)](https://school.programmers.co.kr/learn/courses/30/lessons/12927)                                         |
 | PROGRAMMERS-12938         | [java](programmers/problem12938)   | [최고의 집합 (Best Set)](https://school.programmers.co.kr/learn/courses/30/lessons/12938)                                             |
 | PROGRAMMERS-12939         | [c++](programmers/problem12939)    | [최댓값과 최솟값 (Maximum and Minimum Values)](https://school.programmers.co.kr/learn/courses/30/lessons/12939)                       |
 | PROGRAMMERS-12941         | [java](programmers/problem12941)   | [최솟값 만들기 (Generating Minimum Value)](https://school.programmers.co.kr/learn/courses/30/lessons/12941)                           |
