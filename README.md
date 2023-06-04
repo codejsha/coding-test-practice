@@ -29,6 +29,7 @@
 | PROGRAMMERS-42578         | [python](programmers/problem42578) | [의상 (Clothes)](https://school.programmers.co.kr/learn/courses/30/lessons/42578)                                                     |
 | PROGRAMMERS-42586         | [java](programmers/problem42586)   | [기능개발 (Function Development)](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                                    |
 | PROGRAMMERS-42587         | [java](programmers/problem42587)   | [프로세스 (Process)](https://school.programmers.co.kr/learn/courses/30/lessons/42587)                                                 |
+| PROGRAMMERS-42626         | [java](programmers/problem42626)   | [더 맵게 (Spicier)](https://school.programmers.co.kr/learn/courses/30/lessons/42626)                                                  |
 | PROGRAMMERS-42628         | [java](programmers/problem42628)   | [이중우선순위큐 (Double-Ended Priority Queue)](https://school.programmers.co.kr/learn/courses/30/lessons/42628)                       |
 | PROGRAMMERS-42842 :star:  | [java](programmers/problem42842)   | [카펫 (Carpet)](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                                                      |
 | PROGRAMMERS-42883         | [c++](programmers/problem42883)    | [큰 수 만들기 (Make a Big Number)](https://school.programmers.co.kr/learn/courses/30/lessons/42883)                                   |
