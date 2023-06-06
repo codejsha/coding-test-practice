@@ -30,6 +30,13 @@ public class NLeastCommonMultiple {
         return a;
     }
 
+    public int gcdRecursive(int a, int b) {
+        if (b == 0) {
+            return a;
+        }
+        return gcdRecursive(b, a % b);
+    }
+
     public int lcm(int a, int b) {
         return (a * b) / gcd(a, b);
     }

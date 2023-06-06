@@ -1,5 +1,6 @@
 package problem76502;
 
+import java.util.Arrays;
 import java.util.Stack;
 
 public class RotateParentheses_Module {
@@ -37,13 +38,12 @@ public class RotateParentheses_Module {
         return count;
     }
 
-    private boolean isCorrectParentheses(String temp) {
+    private boolean isCorrectParentheses(String shifted) {
         var stack = new Stack<Character>();
 
-        for (var ch : temp.toCharArray()) {
+        for (var ch : shifted.toCharArray()) {
             if (ch == '(' || ch == '[' || ch == '{') {
                 stack.push(ch);
-
             } else {
                 if (stack.isEmpty()) {
                     return false;

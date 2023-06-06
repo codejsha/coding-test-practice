@@ -28,14 +28,13 @@ public class RotateParentheses {
         var stack = new Stack<Character>();
 
         for (var i = 0; i < s.length(); i++) {
-            var temp = s.substring(i) + s.substring(0, i);
+            var shifted = s.substring(i) + s.substring(0, i);
 
             stack.clear();
             var isCorrect = true;
-            for (var ch : temp.toCharArray()) {
+            for (var ch : shifted.toCharArray()) {
                 if (ch == '(' || ch == '[' || ch == '{') {
                     stack.push(ch);
-
                 } else {
                     if (stack.isEmpty()) {
                         isCorrect = false;
@@ -44,6 +43,7 @@ public class RotateParentheses {
 
                     var current = stack.peek();
                     stack.pop();
+                    
                     if (ch == ')' && current != '(') {
                         isCorrect = false;
                         break;
@@ -55,7 +55,6 @@ public class RotateParentheses {
                         break;
                     }
                 }
-
             }
 
             if (stack.isEmpty() && isCorrect) count++;

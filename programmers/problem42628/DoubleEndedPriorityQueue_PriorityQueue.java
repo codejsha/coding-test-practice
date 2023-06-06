@@ -1,6 +1,8 @@
 package problem42628;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.PriorityQueue;
 
 public class DoubleEndedPriorityQueue_PriorityQueue {
     public static void main(String[] args) {

@@ -31,9 +31,6 @@ public class CorrectParenthesis_Split {
             }
         }
 
-        if (!stack.isEmpty()) {
-            return false;
-        }
-        return true;
+        return stack.isEmpty();
     }
 }
