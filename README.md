@@ -33,7 +33,7 @@
 | PROGRAMMERS-42628         | [java](programmers/problem42628)   | [이중우선순위큐 (Double-Ended Priority Queue)](https://school.programmers.co.kr/learn/courses/30/lessons/42628)                       |
 | PROGRAMMERS-42842 :star:  | [java](programmers/problem42842)   | [카펫 (Carpet)](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                                                      |
 | PROGRAMMERS-42883         | [c++](programmers/problem42883)    | [큰 수 만들기 (Make a Big Number)](https://school.programmers.co.kr/learn/courses/30/lessons/42883)                                   |
-| PROGRAMMERS-42885         | [c++](programmers/problem42885)    | [구명보트 (Lifeboat)](https://school.programmers.co.kr/learn/courses/30/lessons/42885)                                                |
+| PROGRAMMERS-42885         | [java](programmers/problem42885)   | [구명보트 (Lifeboat)](https://school.programmers.co.kr/learn/courses/30/lessons/42885)                                                |
 | PROGRAMMERS-42898         | [java](programmers/problem42898)   | [등굣길 (Road to School)](https://school.programmers.co.kr/learn/courses/30/lessons/42898)                                            |
 | PROGRAMMERS-43105         | [c++](programmers/problem43105)    | [정수 삼각형 (Integer Triangle)](https://school.programmers.co.kr/learn/courses/30/lessons/43105)                                     |
 | PROGRAMMERS-43163         | [c++](programmers/problem43163)    | [단어 변환 (Word Conversion)](https://school.programmers.co.kr/learn/courses/30/lessons/43163)                                        |
