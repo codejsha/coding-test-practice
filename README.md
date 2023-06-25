@@ -28,6 +28,7 @@
 | PROGRAMMERS-17687         | [java](programmers/problem17687)   | [n진수 게임 (n-base Game)](https://school.programmers.co.kr/learn/courses/30/lessons/17687)                                           |
 | PROGRAMMERS-42577         | [java](programmers/problem42577)   | [전화번호 목록 (List of Phone Numbers)](https://school.programmers.co.kr/learn/courses/30/lessons/42577)                              |
 | PROGRAMMERS-42578         | [python](programmers/problem42578) | [의상 (Clothes)](https://school.programmers.co.kr/learn/courses/30/lessons/42578)                                                     |
+| PROGRAMMERS-42579         | [java](programmers/problem42579)   | [베스트앨범 (Best Album)](https://school.programmers.co.kr/learn/courses/30/lessons/42579)                                             |
 | PROGRAMMERS-42586         | [java](programmers/problem42586)   | [기능개발 (Function Development)](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                                    |
 | PROGRAMMERS-42587         | [java](programmers/problem42587)   | [프로세스 (Process)](https://school.programmers.co.kr/learn/courses/30/lessons/42587)                                                 |
 | PROGRAMMERS-42626         | [java](programmers/problem42626)   | [더 맵게 (Spicier)](https://school.programmers.co.kr/learn/courses/30/lessons/42626)                                                  |
