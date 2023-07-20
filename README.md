@@ -7,6 +7,7 @@
 | PROGRAMMERS-1844          | [python](programmers/problem1844)  | [게임 맵 최단거리 (The Shortest Distance on Game Map)](https://school.programmers.co.kr/learn/courses/30/lessons/1844)                |
 | PROGRAMMERS-12909 :star:  | [java](programmers/problem12909)   | [올바른 괄호 (A Correct Parentheses)](https://school.programmers.co.kr/learn/courses/30/lessons/12909)                                |
 | PROGRAMMERS-12911         | [java](programmers/problem12911)   | [다음 큰 숫자 (Next Big Number)](https://school.programmers.co.kr/learn/courses/30/lessons/12911)                                     |
+| PROGRAMMERS-12913         | [java](programmers/problem12913)   | [땅따먹기 (Hopscotch)](https://school.programmers.co.kr/learn/courses/30/lessons/12913)                                               |
 | PROGRAMMERS-12914         | [java](programmers/problem12914)   | [멀리 뛰기 (Long Jump)](https://school.programmers.co.kr/learn/courses/30/lessons/12914)                                              |
 | PROGRAMMERS-12924 :star:  | [java](programmers/problem12924)   | [숫자의 표현 (Number Expressions)](https://school.programmers.co.kr/learn/courses/30/lessons/12924)                                   |
 | PROGRAMMERS-12927         | [java](programmers/problem12927)   | [야근 지수 (Overtime Index)](https://school.programmers.co.kr/learn/courses/30/lessons/12927)                                         |
