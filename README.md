@@ -47,6 +47,7 @@
 | PROGRAMMERS-70129         | [java](programmers/problem70129)   | [이진 변환 반복하기 (Repeat Binary Conversion)](https://school.programmers.co.kr/learn/courses/30/lessons/70129)                      |
 | PROGRAMMERS-72411         | [c++](programmers/problem72411)    | [메뉴 리뉴얼 (Menu Renewal)](https://school.programmers.co.kr/learn/courses/30/lessons/72411)                                         |
 | PROGRAMMERS-76502         | [java](programmers/problem76502)   | [괄호 회전하기 (Rotate Parentheses)](https://school.programmers.co.kr/learn/courses/30/lessons/76502)                                 |
+| PROGRAMMERS-84512         | [java](programmers/problem84512)   | [모음 사전 (Vowel Dictionary)](https://school.programmers.co.kr/learn/courses/30/lessons/84512)                                       |
 | PROGRAMMERS-87390 :star:  | [java](programmers/problem87390)   | [n^2 배열 자르기 (Cutting n^2 Array)](https://school.programmers.co.kr/learn/courses/30/lessons/87390)                                |
 | PROGRAMMERS-87946 :star:  | [java](programmers/problem87946)   | [피로도 (Fatigue)](https://school.programmers.co.kr/learn/courses/30/lessons/87946)                                                   |
 | PROGRAMMERS-92335         | [java](programmers/problem92335)   | [k진수에서 소수 개수 구하기 (Counting Primes in k-Base)](https://school.programmers.co.kr/learn/courses/30/lessons/92335)             |
