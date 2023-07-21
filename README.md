@@ -26,6 +26,7 @@
 | PROGRAMMERS-17677         | [java](programmers/problem17677)   | [뉴스 클러스터링 (News Clustering)](https://school.programmers.co.kr/learn/courses/30/lessons/17677)                                  |
 | PROGRAMMERS-17680         | [java](programmers/problem17680)   | [캐시 (Cache)](https://school.programmers.co.kr/learn/courses/30/lessons/17680)                                                       |
 | PROGRAMMERS-17684         | [java](programmers/problem17684)   | [압축 (Compression)](https://school.programmers.co.kr/learn/courses/30/lessons/17684)                                                 |
+| PROGRAMMERS-17686         | [java](programmers/problem17686)   | [파일명 정렬 (File Name Sorting)](https://school.programmers.co.kr/learn/courses/30/lessons/17686)                                    |
 | PROGRAMMERS-17687         | [java](programmers/problem17687)   | [n진수 게임 (n-base Game)](https://school.programmers.co.kr/learn/courses/30/lessons/17687)                                           |
 | PROGRAMMERS-42577         | [java](programmers/problem42577)   | [전화번호 목록 (List of Phone Numbers)](https://school.programmers.co.kr/learn/courses/30/lessons/42577)                              |
 | PROGRAMMERS-42578         | [python](programmers/problem42578) | [의상 (Clothes)](https://school.programmers.co.kr/learn/courses/30/lessons/42578)                                                     |
