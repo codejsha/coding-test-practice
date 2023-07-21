@@ -54,3 +54,4 @@
 | PROGRAMMERS-131127        | [java](programmers/problem131127)  | [할인 행사 (Discount Events)](https://school.programmers.co.kr/learn/courses/30/lessons/131127)                                       |
 | PROGRAMMERS-131701 :star: | [java](programmers/problem131701)  | [연속 부분 수열 합의 개수 (Number of Consecutive Subsequence Sums)](https://school.programmers.co.kr/learn/courses/30/lessons/131701) |
 | PROGRAMMERS-138476        | [c++](programmers/problem138476)   | [귤 고르기 (Picking Tangerines)](https://school.programmers.co.kr/learn/courses/30/lessons/138476)                                    |
+| PROGRAMMERS-154539        | [java](programmers/problem154539)  | [뒤에 있는 큰 수 찾기 (Find the Larger Number Behind)](https://school.programmers.co.kr/learn/courses/30/lessons/154539)              |
