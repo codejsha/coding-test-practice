@@ -1,3 +1,4 @@
+enable_testing()
 find_package(GTest REQUIRED)
 
 if(WIN32)
@@ -22,7 +23,6 @@ macro(add_target_test target)
     gtest_discover_tests(${target})
 endmacro()
 
-add_library_target(allocation_room_number)
-add_library_target(allocation_room_number_others)
+add_library_target(word_conversion)
 
-add_target_test(allocation_room_number_test)
+add_target_test(word_conversion_test)

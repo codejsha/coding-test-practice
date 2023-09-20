@@ -1,7 +1,7 @@
 ﻿cmake_minimum_required(VERSION 3.16)
 
 project (
-    "coding-test-practice"
+    "coding-test-cpp-practice"
     VERSION 1.0
     DESCRIPTION
         "Coding test practice for Programmers problems"
@@ -18,5 +18,4 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
-enable_testing()
-add_subdirectory(programmers)
+add_subdirectory(src)
