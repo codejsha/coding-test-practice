@@ -1,0 +1,8 @@
+add_subdirectory(problem12904)
+add_subdirectory(problem12939)
+add_subdirectory(problem42883)
+add_subdirectory(problem43105)
+add_subdirectory(problem43163)
+add_subdirectory(problem43164)
+add_subdirectory(problem64063)
+add_subdirectory(problem72411)
