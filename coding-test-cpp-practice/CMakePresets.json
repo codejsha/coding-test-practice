@@ -16,7 +16,7 @@
                 "lhs": "${hostSystemName}",
                 "rhs": "Windows"
             },
-            "toolchainFile": "$env{VCPKG_ROOT}\\scripts\\buildsystems\\vcpkg.cmake"
+            "toolchainFile": "$env{USERPROFILE}\\tools\\vcpkg\\scripts\\buildsystems\\vcpkg.cmake"
         },
         {
             "name": "x64-debug",
@@ -111,11 +111,7 @@
                 "lhs": "${hostSystemName}",
                 "rhs": "Darwin"
             },
-            "vendor": {
-                "microsoft.com/VisualStudioRemoteSettings/CMake/1.0": {
-                    "sourceDir": "$env{HOME}/.vs/$ms{projectDirName}"
-                }
-            }
+            "toolchainFile": "$env{HOME}/tools/vcpkg/scripts/buildsystems/vcpkg.cmake"
         }
     ]
 }

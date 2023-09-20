@@ -1,3 +1,4 @@
+enable_testing()
 find_package(GTest REQUIRED)
 
 if(WIN32)
@@ -22,6 +23,6 @@ macro(add_target_test target)
     gtest_discover_tests(${target})
 endmacro()
 
-add_library_target(word_conversion)
+add_library_target(min_max_values)
 
-add_target_test(word_conversion_test)
+add_target_test(min_max_values_test)

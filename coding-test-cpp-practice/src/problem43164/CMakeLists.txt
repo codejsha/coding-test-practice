@@ -1,3 +1,4 @@
+enable_testing()
 find_package(GTest REQUIRED)
 
 if(WIN32)
@@ -22,6 +23,6 @@ macro(add_target_test target)
     gtest_discover_tests(${target})
 endmacro()
 
-add_library_target(make_big_number)
+add_library_target(travel_route)
 
-add_target_test(make_big_number_test)
+add_target_test(travel_route_test)
