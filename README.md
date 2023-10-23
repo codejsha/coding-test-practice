@@ -5,6 +5,7 @@
 | Problem                   | Language                                                      | Title                                                                                                                                 |
 | :------------------------ | :------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------ |
 | PROGRAMMERS-1844          | [python](coding-test-python-practice/src/problem1844)         | [게임 맵 최단거리 (The Shortest Distance on Game Map)](https://school.programmers.co.kr/learn/courses/30/lessons/1844)                |
+| PROGRAMMERS-12904         | [c++](coding-test-cpp-practice/src/problem12904)              | [가장 긴 팰린드롬 (Longest Palindrome)](https://school.programmers.co.kr/learn/courses/30/lessons/12904)                               |
 | PROGRAMMERS-12909 :star:  | [java](coding-test-java-practice/src/main/java/problem12909)  | [올바른 괄호 (A Correct Parentheses)](https://school.programmers.co.kr/learn/courses/30/lessons/12909)                                |
 | PROGRAMMERS-12911         | [java](coding-test-java-practice/src/main/java/problem12911)  | [다음 큰 숫자 (Next Big Number)](https://school.programmers.co.kr/learn/courses/30/lessons/12911)                                     |
 | PROGRAMMERS-12913         | [java](coding-test-java-practice/src/main/java/problem12913)  | [땅따먹기 (Hopscotch)](https://school.programmers.co.kr/learn/courses/30/lessons/12913)                                               |
@@ -54,5 +55,7 @@
 | PROGRAMMERS-92335         | [java](coding-test-java-practice/src/main/java/problem92335)  | [k진수에서 소수 개수 구하기 (Counting Primes in k-Base)](https://school.programmers.co.kr/learn/courses/30/lessons/92335)             |
 | PROGRAMMERS-131127        | [java](coding-test-java-practice/src/main/java/problem131127) | [할인 행사 (Discount Events)](https://school.programmers.co.kr/learn/courses/30/lessons/131127)                                       |
 | PROGRAMMERS-131701 :star: | [java](coding-test-java-practice/src/main/java/problem131701) | [연속 부분 수열 합의 개수 (Number of Consecutive Subsequence Sums)](https://school.programmers.co.kr/learn/courses/30/lessons/131701) |
+| PROGRAMMERS-132265        | [c++](coding-test-cpp-practice/src/problem132265)             | [롤케이크 자르기 (Cutting Roll Cake)](https://school.programmers.co.kr/learn/courses/30/lessons/132265)                                |
 | PROGRAMMERS-138476        | [java](coding-test-java-practice/src/main/java/problem138476) | [귤 고르기 (Picking Tangerines)](https://school.programmers.co.kr/learn/courses/30/lessons/138476)                                    |
+| PROGRAMMERS-154538        | [c++](coding-test-cpp-practice/src/problem154538)             | [숫자 변환하기 (Number Conversion)](https://school.programmers.co.kr/learn/courses/30/lessons/154538)                                |
 | PROGRAMMERS-154539        | [java](coding-test-java-practice/src/main/java/problem154539) | [뒤에 있는 큰 수 찾기 (Find the Larger Number Behind)](https://school.programmers.co.kr/learn/courses/30/lessons/154539)              |
